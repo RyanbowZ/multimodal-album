@@ -7,7 +7,7 @@ This is our python backend code in Flask.
 1. Clone this repository and navigate into the project directory
 
     ```shell
-    git clone https://github.com/JingC123/CSCE689HCI_Project.git
+    git clone https://github.com/RyanbowZ/multimodal-album.git
     cd backend
     ```
 
