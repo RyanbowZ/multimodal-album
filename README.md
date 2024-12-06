@@ -6,4 +6,8 @@ The primary objective of this project is to develop a Multi-modal Intelligent Al
 Our key goals include reducing query times compared to traditional image search methods and enhancing the accuracy of retrieval through fuzzy search of text descriptions, finding similar images, or other multi-modal interactions. The project also seeks to improve the user experience by supporting diverse input modalities, making image retrieval more accessible and efficient across different user preferences. Expected outcomes include a prototype of a fully-functional multi-modal album search system based on Web browser, improved query response times, and an enhanced user interface that supports text, voice, and image interactions.
 
 
+
+https://github.com/user-attachments/assets/5a3780b8-8291-4ed4-b6f7-ff1a55d4ee96
+
+
 ![image](./frontend/assets/preview_multi.png)
