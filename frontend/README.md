@@ -1,13 +1,13 @@
 This is our front end code in Vue 3.
 
-![image](./assets/preview1.png)
+![image](./assets/preview_multi.png)
 
 ## Setup
 
 1. Clone this repository and navigate into the project directory
 
     ```shell
-    git clone https://github.com/RyanbowZ/intelligent-album.git
+    git clone https://github.com/RyanbowZ/multimodal-album.git
     cd frontend
     ```
 
